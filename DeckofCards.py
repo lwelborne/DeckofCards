@@ -1,5 +1,4 @@
 # Lenora Welborne
-# CIS261
 # DeckofCards
 import random
 def create_deck():
